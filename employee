@@ -1,0 +1,72 @@
+[
+    {
+        "employee": {
+            "personalDetail": {
+                "empName": "Ravsih",
+                "age": 24,
+                "qualification": "MCA"
+            },
+            "workDetail": {
+                "experience": 1,
+                "role": "Software Developer",
+                "currentCtc": 60000
+            }
+        }
+    },
+    {
+        "employee": {
+            "personalDetail": {
+                "empName": "Balaji",
+                "age": 24,
+                "qualification": "M.Tech"
+            },
+            "workDetail": {
+                "experience": 2,
+                "role": "Consultant",
+                "currentCtc": 90000
+            }
+        }
+    },
+    {
+        "employee": {
+            "personalDetail": {
+                "empName": "Vasanth",
+                "age": 28,
+                "qualification": "BE"
+            },
+            "workDetail": {
+                "experience": 3,
+                "role": "Architect",
+                "currentCtc": 50000
+            }
+        }
+    },
+    {
+        "employee": {
+            "personalDetail": {
+                "empName": "Sarvesh",
+                "age": 30,
+                "qualification": "ME"
+            },
+            "workDetail": {
+                "experience": 5,
+                "role": "Senior Developer",
+                "currentCtc": 150000
+            }
+        }
+    },
+    {
+        "employee": {
+            "personalDetail": {
+                "empName": "Pradeep",
+                "age": 30,
+                "qualification": "MBA"
+            },
+            "workDetail": {
+                "experience": 8,
+                "role": "CEO",
+                "currentCtc": 70000
+            }
+        }
+    }
+]
