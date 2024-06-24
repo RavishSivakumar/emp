@@ -9,7 +9,8 @@
             "workDetail": {
                 "experience": 1,
                 "role": "Software Developer",
-                "currentCtc": 60000
+                "currentCtc": 60000,
+                "logo": "https://media.licdn.com/dms/image/C560BAQFbnFQ6GXOLIg/company-logo_200_200/0/1678941256975/bizquark_logo?e=1727308800&v=beta&t=Vuzu0HsfHArrrQip6PE8CO47WVI4qqgovLuPtM8gYEE"
             }
         }
     },
@@ -23,7 +24,8 @@
             "workDetail": {
                 "experience": 2,
                 "role": "Consultant",
-                "currentCtc": 90000
+                "currentCtc": 90000,
+                "logo": "https://media.licdn.com/dms/image/C560BAQFbnFQ6GXOLIg/company-logo_200_200/0/1678941256975/bizquark_logo?e=1727308800&v=beta&t=Vuzu0HsfHArrrQip6PE8CO47WVI4qqgovLuPtM8gYEE"
             }
         }
     },
@@ -37,7 +39,8 @@
             "workDetail": {
                 "experience": 3,
                 "role": "Architect",
-                "currentCtc": 50000
+                "currentCtc": 50000,
+                "logo": "https://media.licdn.com/dms/image/C560BAQFbnFQ6GXOLIg/company-logo_200_200/0/1678941256975/bizquark_logo?e=1727308800&v=beta&t=Vuzu0HsfHArrrQip6PE8CO47WVI4qqgovLuPtM8gYEE"
             }
         }
     },
@@ -51,7 +54,8 @@
             "workDetail": {
                 "experience": 5,
                 "role": "Senior Developer",
-                "currentCtc": 150000
+                "currentCtc": 150000,
+                "logo": "https://media.licdn.com/dms/image/C560BAQFbnFQ6GXOLIg/company-logo_200_200/0/1678941256975/bizquark_logo?e=1727308800&v=beta&t=Vuzu0HsfHArrrQip6PE8CO47WVI4qqgovLuPtM8gYEE"
             }
         }
     },
@@ -65,7 +69,8 @@
             "workDetail": {
                 "experience": 8,
                 "role": "CEO",
-                "currentCtc": 70000
+                "currentCtc": 70000,
+                "logo": "https://media.licdn.com/dms/image/C560BAQFbnFQ6GXOLIg/company-logo_200_200/0/1678941256975/bizquark_logo?e=1727308800&v=beta&t=Vuzu0HsfHArrrQip6PE8CO47WVI4qqgovLuPtM8gYEE"
             }
         }
     }
